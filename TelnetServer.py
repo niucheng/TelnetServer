@@ -18,10 +18,10 @@ Be bold!
 
 '''
 help_message = '''Command         Description
-=============================================================
+===============================================================
 HELP            Print this help message
 WHO             List user(s) online
-TALK 'MESSAGE'  Talk to other users in the same telnet system
+TALK 'MESSAGE'  Talk to other user(s) in the same telnet system
 EXIT            Quit the telnet service
 
 At your service.  Telnet server application. Version: %s

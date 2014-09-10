@@ -47,5 +47,9 @@ TELNET# by
 Have a lot of fun!Connection closed by foreign host.
 ```
 
-Have a lot of fun! :sparkles:
+Have a lot of fun!
+
+--
+
+MIT license - Copyright (C) 2014 :sparkles:
 
